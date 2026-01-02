@@ -64,5 +64,7 @@ Com base nos dados, sugerimos as seguintes ações:
 3.  **Investigação do Electronic Check:** Auditar o processo de pagamento via cheque eletrônico para entender se há falhas técnicas ou de usabilidade que geram churn involuntário.
 4.  **Estratégia de Downsell:** Para clientes de alto ticket (`MonthlyCharges` elevado) que solicitarem cancelamento, oferecer pacotes mais básicos antes de aceitar a perda total.
 
-Autor : Matheus Brito
-Analista de Dados
+
+---
+**Autor:** Matheus Brito  
+*Analista de Dados*
