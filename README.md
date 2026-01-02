@@ -34,7 +34,7 @@ Através de visualizações gráficas e estatísticas, identificamos os seguinte
 ### 3.3 Sensibilidade ao Preço
 * **Ticket Médio:** O Boxplot revelou que **quem cancela paga mais caro**. A mediana da fatura mensal dos clientes que deram Churn é visivelmente superior à dos clientes fiéis, indicando alta sensibilidade a preço.
 
-![alt text](Reports/tipo-contrato.png)
+![alt text](Reports/boxplot.png)
 
 ### 3.4 Ciclo de Vida (Tenure)
 * **O "Vale da Morte":** A análise de histograma mostrou que o momento mais crítico é o **primeiro mês**. A maior parte dos cancelamentos ocorre logo no início do relacionamento (Mês 1 a 5), indicando problemas na experiência de *onboarding* ou venda errada.
