@@ -63,3 +63,6 @@ Com base nos dados, sugerimos as seguintes ações:
 2.  **Migração Contratual:** Criar incentivos agressivos (descontos na fatura ou upgrade de velocidade) para clientes "Month-to-month" migrarem para contratos de **1 ano**.
 3.  **Investigação do Electronic Check:** Auditar o processo de pagamento via cheque eletrônico para entender se há falhas técnicas ou de usabilidade que geram churn involuntário.
 4.  **Estratégia de Downsell:** Para clientes de alto ticket (`MonthlyCharges` elevado) que solicitarem cancelamento, oferecer pacotes mais básicos antes de aceitar a perda total.
+
+Autor : Matheus Brito
+Analista de Dados
